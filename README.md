@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3200&pause=1200&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=110&lines=Building+Intelligent%2C+Scalable+Systems;Full+Stack+%2B+AI+%2F+ML+Engineer;Where+Clean+Code+Meets+Real+Impact" alt="Typing SVG" />
 </a>
 
-<sub><i style="font-family: Poppins;">✨ Engineering the future — one intelligent system at a time ✨</i></sub>
+
 
 </div>
 
